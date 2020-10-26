@@ -2,6 +2,12 @@ body {
   font-size: 1em;
 }
 
+p::first-letter{
+  display: inline-block;
+  font-size: 4em;
+  font-family: Arial;
+}
+
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
