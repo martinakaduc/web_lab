@@ -29,6 +29,11 @@ p {
   font-size: 1.2em;
 }
 
+a {
+  font-family: Arial;
+  font-size: 1.2em;
+}
+
 ul > li {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
