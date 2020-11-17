@@ -1,13 +1,3 @@
-/*
-Theme Name: Ginger Ninja! v2
-Description: The new Ginger Ninja! theme.
-Version: 1.0
-Author: Donny Burnside
-Author URI: http://www.ginger-ninja.net/
-*/
-
-/* Generic Styling */
-
 body {
 	background:url(../images/bg-body.png) repeat-x top center #E8F7F9;
 	font-family:"Trebuchet MS" Arial, Helvetica, sans-serif;
@@ -36,8 +26,6 @@ a:hover {
 	text-decoration:none;
 	color:#6CC7DC;
 	}
-
-/* Structure */
 
 #wrapper {
 	margin:0 auto;
@@ -73,8 +61,6 @@ a:hover {
 	background:url(../images/bg-footer.jpg) no-repeat;
 	}
 
-/* Entries */
-
 .entry {
 	padding:5px 10px;
 	text-align:justify;
@@ -104,9 +90,6 @@ a:hover {
 	color:#B4C835;
 	}
 
-
-/* Menu */
-
 #menu ul {
 	list-style-type:none;
 	}
@@ -122,8 +105,6 @@ a:hover {
 #menu li a:hover {
 	background:url(../images/bg-menu-hover.png) no-repeat center center;
 	}
-
-/* Sidebar */
 
 #sidebar ul {
 	list-style-type:none;
@@ -149,8 +130,6 @@ a:hover {
 	background:url(../images/bg-sidebar-bottom.gif) no-repeat top center;
 	}
 
-/* Footer */
-
 #footer-valid {
 	float:left;
 	padding-top:55px;
@@ -166,8 +145,6 @@ a:hover {
 	color:#ffffff;
 	text-decoration:underline;
 	}
-
-/* Heading's */
 
 h1 {
 	font-size:2.5em;
@@ -198,8 +175,6 @@ a.feed-button {
 a:hover.feed-button {
 	background-position:0 -25px;
 	}
-
-/* Extra's */
 
 #ad-top {
 	width:480px;
