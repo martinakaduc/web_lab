@@ -31,7 +31,7 @@
          function solve()
          {
              let x = document.getElementById("result").value
-             x.replace("^", "**")
+             x = x.replace("^", "**")
              let y = eval(x)
              document.getElementById("result").value = y
          }
