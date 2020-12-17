@@ -24,10 +24,10 @@
         break;
 
       default:
-        echo("Choose another option!")
+        echo("Choose another option!");
         break;
     }
   }
 
-  
+
 ?>
